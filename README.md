@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&layout=compact&theme=Jack-Chen-Hi)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jack-Chen-Hi)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jack-Chen-Hi)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhanglina94)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jack-Chen-Hi)
 
