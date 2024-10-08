@@ -5,7 +5,10 @@
 
 - 🌱 I’m currently learning deep learing
 - 🚀Main technical direction: MCU/PCB/Embedded software and hardware development
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhanglina94)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jack-Chen-Hi)
 
