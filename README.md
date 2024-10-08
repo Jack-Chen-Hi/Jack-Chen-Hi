@@ -1,5 +1,7 @@
 ## Hi there 👋
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jack-Chen-Hi)
+![trophy](https://github-profile-trophy.vercel.app/?username=Jack-Chen-Hi)
 
 
 <!--
